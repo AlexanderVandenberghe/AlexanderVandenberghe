@@ -1,6 +1,6 @@
 # who am i?
- 👋 Hi, I’m @AlexanderVandenberghe
- 🟥 I currently work for Bureau Bouwtechniek
+👋 Hi, I’m @AlexanderVandenberghe
+🟥 I currently work for Bureau Bouwtechniek
 
 <!---
 AlexanderVandenberghe/AlexanderVandenberghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
